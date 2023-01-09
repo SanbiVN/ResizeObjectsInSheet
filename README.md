@@ -2,6 +2,9 @@
  Hàm tự động chỉnh ảnh:  vị trí, kích thước, sắp xếp ngang dọc
 
 
+![images manager sort excel](https://user-images.githubusercontent.com/58664571/211269316-5c4614e0-f65f-4945-879d-3afabc429830.gif)
+
+
 ![auto resize image excel](https://user-images.githubusercontent.com/58664571/210742432-7e32038d-a228-4a93-b59c-be56b808eeeb.gif)
 
 
